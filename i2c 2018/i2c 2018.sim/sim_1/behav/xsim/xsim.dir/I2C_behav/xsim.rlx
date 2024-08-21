@@ -1,0 +1,12 @@
+
+{ 
+    crc :  2488041106797838451  , 
+    ccp_crc :  0  , 
+    cmdline : " -wto 560b5348f1bc4cd79a23dc2445de1ac9 --incr --debug typical --relax --mt 2 -L xil_defaultlib -L unisims_ver -L unimacro_ver -L secureip --snapshot I2C_behav xil_defaultlib.I2C xil_defaultlib.glbl" , 
+    buildDate : "Oct  4 2017" , 
+    buildTime : "20:11:37" , 
+    linkCmd : "E:\\Programs\\Xilinx\\Vivado\\2017.3\\data\\..\\tps\\mingw\\6.2.0\\win64.o\\nt\\bin\\gcc.exe -Wa,-W  -O -Wl,--stack,104857600 -o \"xsim.dir/I2C_behav/xsimk.exe\"   \"xsim.dir/I2C_behav/obj/xsim_0.win64.obj\" \"xsim.dir/I2C_behav/obj/xsim_1.win64.obj\" \"E:\\Programs\\Xilinx\\Vivado\\2017.3\\lib\\win64.o\\\\librdi_simulator_kernel.dll\" \"E:\\Programs\\Xilinx\\Vivado\\2017.3\\lib\\win64.o\\\\librdi_simbridge_kernel.dll\"" , 
+    aggregate_nets : 
+    [ 
+    ] 
+} 

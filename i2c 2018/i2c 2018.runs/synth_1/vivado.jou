@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2017.3 (64-bit)
+# SW Build 2018833 on Wed Oct  4 19:58:22 MDT 2017
+# IP Build 2016188 on Wed Oct  4 21:52:56 MDT 2017
+# Start of session at: Thu Nov  8 23:31:34 2018
+# Process ID: 44176
+# Current directory: E:/Documents/i2c 2018/i2c 2018.runs/synth_1
+# Command line: vivado.exe -log i2c_main.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source i2c_main.tcl
+# Log file: E:/Documents/i2c 2018/i2c 2018.runs/synth_1/i2c_main.vds
+# Journal file: E:/Documents/i2c 2018/i2c 2018.runs/synth_1\vivado.jou
+#-----------------------------------------------------------
+source i2c_main.tcl -notrace
